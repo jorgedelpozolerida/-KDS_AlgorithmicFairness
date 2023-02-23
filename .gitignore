@@ -130,3 +130,5 @@ dmypy.json
 
 # Project specific files
 *psam_p06.csv
+
+venv
