@@ -1,0 +1,9 @@
+metric,SEX_1,SEX_2,RAC1P_1,RAC1P_2
+True Positive Rate,0.8655,0.905,0.8813,0.896
+False Positive Rate,0.3116,0.4319,0.3739,0.4215
+False Negative Rate,0.1345,0.095,0.1187,0.104
+True Negative Rate,0.6884,0.5681,0.6261,0.5785
+Accuracy,0.8186,0.7783,0.8019,0.7733
+Recall,0.8655,0.905,0.8813,0.896
+Precision,0.8853,0.7767,0.8391,0.7713
+F1 Score,0.8753,0.836,0.8597,0.829
